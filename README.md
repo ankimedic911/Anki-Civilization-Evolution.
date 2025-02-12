@@ -18,7 +18,7 @@ Civilization Evolution is an Anki add-on that makes flashcard reviewing more eng
 
 2️⃣ Install the Add-on
 Extract the civilizationevolution folder.
-Move it to C:\Users\YOURNAME\AppData\Roaming\Anki2\addons21\
+Move it to %APPDATA%\Anki2\addons21\
 Restart Anki.
 3️⃣ Start Playing!
 Your XP bar will appear in Anki.
