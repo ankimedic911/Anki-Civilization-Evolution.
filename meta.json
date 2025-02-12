@@ -1,0 +1,8 @@
+{
+    "name": "Civilization Evolution",
+    "description": "Gamifies Anki by turning flashcard reviews into a civilization-building game!",
+    "author": "ankimedic",
+    "version": "1.0",
+    "license": "MIT",
+    "min_api_version": 21
+}
